@@ -70,3 +70,8 @@ ProgrammableWeb|http://www.programmableweb.com/apis/directory|Large listing of g
 Heroku|Cloud Server|https://www.heroku.com/|Free
 OpenShift|Cloud Server|https://www.openshift.com/pricing/plan-comparison.html|Free
 AWS|Cloud Server and lots more|https://aws.amazon.com/|Free Tier - Massive offerings
+
+### NLP
+**Type**|**Name**
+-----|-----
+Blog post|[NLP on song lyrics] (https://bigishdata.com/2016/10/25/talkin-bout-trucks-beer-and-love-in-country-songs-analyzing-genius-lyrics/)
