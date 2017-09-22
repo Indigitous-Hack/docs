@@ -7,7 +7,6 @@ To get started with the hack:
 1. [Register for the #hack] (https://indigitous.org/hack)
 2. [Get Slack] (https://slack.com/)
 3. Join the [Kingdom Builders Slack] community. We will collaborate everything through Kingdom Builders Slack. (http://kingdombuilders.io/)
-4. Come and hack on Nov 4-6 (or hack [online] (https://indigitous.org/location/virtual/))
 
 
 ## General Tools for the hack
