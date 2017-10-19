@@ -26,6 +26,7 @@ To get started with the hack:
 Atom Text Editor|https://atom.io/|An Open Source text edting tool from the makers of Github
 Github Student Pack|https://education.github.com/pack|Pack of Development Resource and Free services for students
 CrossOrigin API proxy (workaround for CORS)|https://crossorigin.me/|A CORS proxy is a service that allows developers (probably you) to access resources from other websites, without having to own that website.
+
 PostMan (API tool)|https://www.getpostman.com/|The tool for testing APIs
 CORs Allow Chrome Plugin|https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi|Super simple way to solve Cross Site Scripting issues in your Chrome Browser
 Zapier|https://zapier.com/|Don't rebuild the wheel unless you need to. Zapier interfaces with LOTS of API so you don't have to
@@ -69,6 +70,8 @@ ProgrammableWeb|http://www.programmableweb.com/apis/directory|Large listing of g
 Heroku|Cloud Server|https://www.heroku.com/|Free
 OpenShift|Cloud Server|https://www.openshift.com/pricing/plan-comparison.html|Free
 AWS|Cloud Server and lots more|https://aws.amazon.com/|Free Tier - Massive offerings
+OutSystems|Low-Code PaaS|https://www.outsystems.com/|Free Tier; Moderate learning curve, but accelerates most web development and hybrid mobile development projects by 2-4x
+DigitalOcean|Cloud servers, object storage, and load balancing|https://www.digitalocean.com/|Very simple to use. Great for small to medium projects. Server usage is charged by the hour; small instances are as low as $5/month
 
 ### NLP
 **Type**|**Name**
