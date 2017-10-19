@@ -1,3 +1,4 @@
+
 # Tools for the Indigitous #hack
 This page will serve as a hub for listing tools, software, APIs and services to the [Indigitous #hack] (https://indigitous.org/hack) Feel free to make pull requests to add to and update this list.
 
@@ -24,6 +25,8 @@ To get started with the hack:
 **Name of tool**|**Url**|**Notes**
 -----|-----|-----
 Atom Text Editor|https://atom.io/|An Open Source text edting tool from the makers of Github
+Visual Studio Code Text Editor|https://code.visualstudio.com/|Free. Open Source. Runs Everywhere.
+Android Studio|https://developer.android.com/studio/index.html|The official IDE for Android.
 Github Student Pack|https://education.github.com/pack|Pack of Development Resource and Free services for students
 CrossOrigin API proxy (workaround for CORS)|https://crossorigin.me/|A CORS proxy is a service that allows developers (probably you) to access resources from other websites, without having to own that website.
 PostMan (API tool)|https://www.getpostman.com/|The tool for testing APIs
