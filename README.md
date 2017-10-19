@@ -7,8 +7,6 @@ To get started with the hack:
 1. [Register for the #hack] (https://indigitous.org/hack)
 2. [Get Slack] (https://slack.com/)
 3. Join the [Kingdom Builders Slack] community. We will collaborate everything through Kingdom Builders Slack. (http://kingdombuilders.io/)
-
-
 ## General Tools for the hack
 * Bring you tech -
   * Laptop Computer with preferred OS (Desktop tower, monitor, keyboard and mouse possible, but not recommended)
@@ -31,6 +29,21 @@ CORs Allow Chrome Plugin|https://chrome.google.com/webstore/detail/allow-control
 Zapier|https://zapier.com/|Don't rebuild the wheel unless you need to. Zapier interfaces with LOTS of API so you don't have to
 ifttt|https://ifttt.com/|Don't rebuild the wheel unless you need to. IFTTT interfaces with LOTS of API so you don't have to
 AWS Lambda|https://aws.amazon.com/lambda/|Need to run code as a responce to an event or build a REST API? Complex, powerful and steep learning curve
+
+### Free Learning Resources
+**Technology**|**Course Name**|**URL**
+-----|-----|-----
+Android|Developing Android Apps|https://classroom.udacity.com/courses/ud851
+Android|Intro to Passwordless Login Solutions|https://classroom.udacity.com/courses/ud357
+Android / Firebase|Firebase in a Weekend (Android version)|https://classroom.udacity.com/courses/ud035
+Express.js|Expressworks|https://github.com/azat-co/expressworks
+JavaScript|Javascripting|https://github.com/workshopper/javascripting
+NodeJS|Learn You Node|https://github.com/workshopper/learnyounode
+Outsystems|Becoming a Mobile Developer|https://www.outsystems.com/learn/paths/1/becoming-a-mobile-developer/
+Outsystems|Becoming a Web Developer|https://www.outsystems.com/learn/paths/2/becoming-a-web-developer/
+Outsystems|Becoming a Hardcore Server-Side Developer|https://www.outsystems.com/learn/paths/5/becoming-a-hardcore-server-side-developer/
+Outsystems|Building Front-Ends Like a Jedi|https://www.outsystems.com/learn/paths/3/building-front-ends-like-a-jedi/
+Outsystems|Designing User-Delightful UX & UI|https://www.outsystems.com/learn/paths/7/designing-user-delightful-ux-ui/
 
 
 
