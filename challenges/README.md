@@ -10,5 +10,10 @@
 | Redemptive Relationships | kewei328 | | | Changing church culture by re-imagining the solitary weekday mission of its members as something the church family can share in together. | |
 | Engagement Problem | mwork | Lyon | | What can be done to encourage students to commit themselves within a set time frame (and not at the last minute) and to stick to their commitment? | |
 | Roomate Wanted | mwork | Lyon | | We spend a lot of time to connect students who arrive in Lyon and seek accommodation in Christian apt/home. Is there a way to be more effective in creating good connections between them? | |
-| Visbility on Campus | mwork | Lyon | | how to make the Association Agapé Campus Lyon better known among the students? | |
-
+| Visbility on Campus | mwork | Lyon | | How to make the Association Agapé Campus Lyon better known among the students? | |
+| Electronic Visbility Gauge | estoddard | | | Design and develop an automated solution for calibrating HF radio to assist pilots when landing in poor visibility | |
+| Online Map of All MAF Bases and Served Airstrips | estoddard | | | Build an interactive map that can be used on our website and large displays. | | 
+| Kingdom Aid | melcx and fionahew | Kuala Lumpur | | Crowdfunding to improve the standard of living of Christians and support Christian Organizations involved in spreading Kingdom principles | |
+| Integrated Missions Management | hsienli | Kuala Lumpur | | Mobile Online Platform for Coordination of Missions Volunteers and Resources | |
+| Secure Communication Platform | nbunney | Modesto, CA | | A secure missions communication platform for those in limited and closed access countries. | https://indigitous.org/projects/secure-communication-platform/ |
+| Blackstone | nonprofittechie | Chicago, IL | | Simplifies volunteer engagement in the digital ministry by aggregating and automating messaging and phone communications. | |
