@@ -1,4 +1,5 @@
 | Challenge name | Lead/Point of Contact (Slack Username) | City | Hashtag | Description | URL |
+| -------------  | -------------------------------------  | ---- | ------  | ----------- | --- |
 | Grow Fast Grow Deep | talkingtoaj                            | | #GrowFastGrowDeep | | https://bitbucket.org/talkingtoaj/lang/wiki/Home |
 | Catalyst Connection | kewei328 |  | #CatalystConnections | A mobile app for Christians in workplaces to connect for Bible studies, to apply faith to work and life, and to welcome colleagues. | | 
 | Go Mission! | kewei328 | | #CatalystConnections | A mobile app for Christians in workplaces to connect for Bible studies, to apply faith to work and life, and to welcome colleagues. | | 
