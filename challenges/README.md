@@ -16,7 +16,7 @@
 | Kingdom Aid | melcx and fionahew | Kuala Lumpur | | Crowdfunding to improve the standard of living of Christians and support Christian Organizations involved in spreading Kingdom principles | |
 | Integrated Missions Management | hsienli | Kuala Lumpur | | Mobile Online Platform for Coordination of Missions Volunteers and Resources | |
 | Secure Communication Platform | nbunney | Modesto, CA | | A secure missions communication platform for those in limited and closed access countries. | https://indigitous.org/projects/secure-communication-platform/ |
-| Blackstone | nonprofittechie | Chicago, IL | | Simplifies volunteer engagement in the digital ministry by aggregating and automating messaging and phone communications. | |
+| Blackstone | nonproftechie | Chicago, IL | | Simplifies volunteer engagement in the digital ministry by aggregating and automating messaging and phone communications. | |
 | The Papyrus Project | profgannod | Cookville, IL | | The Papyrus Project is looking to evaluate the use of Serval for communicating in disaster-stricken regions. | |
 | Breaking Christian game stereotypes | joshua.montzka | Melbourne, AUS | | Simple fun smartphone game using biblical characters to break stereotypes | https://indigitous.org/projects/breaking-christian-game-stereotypes/ |
 | Volunteers 4 Hope | hsienli | Kuala Lumpur | | Gathering a Community of Volunteers and Matching their Skills and Interests to the needs of organisations | |
@@ -33,4 +33,3 @@
 | Walk Beside | tohagan | Melbourne | #walk-beside | Take online personal discipling to the next level. | https://indigitous.org/projects/walk-beside/ |
 | In-form | selegna | Panamá City | | Celebrate and evaluate the results of the effort made to see spiritual movements everywhere. As we launch spiritual movements led by volunteers, there is a need to have a tool that allows them to celebrate and evaluate the results of the effort, to measure the impact beyond having statistics (which are also important). | https://indigitous.org/projects/in-form/ | |
 | The Temperaments and Jesus Film | selegna | Panamá City | | How can the Jesus Film help us to know each other, enable us to improve our temperament, and demonstrate the balanced personality of Jesus so that others decide to follow him | https://indigitous.org/projects/los-temperamentos-y-la-pelicula-jesus/ | |
-
