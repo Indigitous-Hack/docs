@@ -1,6 +1,6 @@
 | Challenge name | Lead/Point of Contact (Slack Username) | City | Hashtag | Description | URL |
 | -------------  | -------------------------------------  | ---- | ------  | ----------- | --- |
-| Grow Fast Grow Deep | talkingtoaj                            | | #GrowFastGrowDeep | | https://bitbucket.org/talkingtoaj/lang/wiki/Home |
+| Grow Fast Grow Deep | talkingtoaj | | #GrowFastGrowDeep | | https://bitbucket.org/talkingtoaj/lang/wiki/Home |
 | Catalyst Connection | kewei328 |  | #CatalystConnections | A mobile app for Christians in workplaces to connect for Bible studies, to apply faith to work and life, and to welcome colleagues. | | 
 | Go Mission! | kewei328 | | | Create a solution for motivating Christians to use the many free digital outreach resources now available. | | 
 | Ending Addiction through Technology | profgannod | Cookville, TN | | One-stop shopping for regional resources related to ending opioid addition and abuse through the use of technology and education | |
@@ -17,3 +17,16 @@
 | Integrated Missions Management | hsienli | Kuala Lumpur | | Mobile Online Platform for Coordination of Missions Volunteers and Resources | |
 | Secure Communication Platform | nbunney | Modesto, CA | | A secure missions communication platform for those in limited and closed access countries. | https://indigitous.org/projects/secure-communication-platform/ |
 | Blackstone | nonprofittechie | Chicago, IL | | Simplifies volunteer engagement in the digital ministry by aggregating and automating messaging and phone communications. | |
+| The Papyrus Project | profgannod | Cookville, IL | | The Papyrus Project is looking to evaluate the use of Serval for communicating in disaster-stricken regions. | |
+| Breaking Christian game stereotypes | joshua.montzka | Melbourne, AUS | Simple fun smartphone game using biblical characters to break stereotypes | https://indigitous.org/projects/breaking-christian-game-stereotypes/ |
+| Volunteers 4 Hope | hsienli | Kuala Lumpur | | Gathering a Community of Volunteers and Matching their Skills and Interests to the needs of organisations | |
+| God's Reality in Virtual Reality | Tim Evans | Melbourne, Australia | | VR radically shifts how we experience stories. Can we tell the greatest story in this new reality? | |
+| Gospel Storytelling | kewei328 | Auckland, NZ | | Use Gospel-focused media to help non-believers take their first step towards Jesus | | 
+| Hack HIV | kaiifalcutela | Manila | #endAIDS | | | http://indigitous.ph/ |
+| Mental Health Challenge | kaiifalcutela | Manila | #TalkToSomeJUAN | Encourage persons with mental health problems to #TalkToSomeJUAN (a friend, family memeber, professional or hotline/helpline | | http://indigitous.ph/ |
+| Mobile Discipleship | kaiifalcutela | Manila | #mobidisc | Equipping discipleship leaders in doing follow-up sessions with a growing believer using their smartphones | | http://indigitous.ph/ |
+| OFW In Distress | kaiifalcutela | Manila | #globalpinoy | Helping OFWs (Overseas Filipino Workers) & their families anytime, anywhere. Spread awareness about their rights and benefits. | | http://indigitous.ph/ |
+| Photo Quote App | kaiifalcutela | Manila | #sparklife | Enable a community to create shareable quotes on photos that will touch adn "salt" people's hearts and minds towards Christ | |http://indigitous.ph/  |
+| Sefarers Raspberry Pi | kaiifalcutela | Manila | #seafarersforchrist | Help bring the life-changing message of Jesus Christ to every ship and every seafarer | | http://indigitous.ph/ |
+| Short Film Challenge | kaiifalcutela | Manila | #shortfilmconvo | Engaging people in a meaningful spiritual conversation using a short film | | http://indigitous.ph/ |
+| Translation Workspace | kaiifalcutela | Manila | #workspace | Provide a tool that assists New Tribes Missionaries (NTM) to translate the Chronological Bible Study material into the tribal community local language | | http://indigitous.ph/ |
