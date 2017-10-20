@@ -30,3 +30,7 @@
 | Sefarers Raspberry Pi | kaiifalcutela | Manila | #seafarersforchrist | Help bring the life-changing message of Jesus Christ to every ship and every seafarer | | http://indigitous.ph/ |
 | Short Film Challenge | kaiifalcutela | Manila | #shortfilmconvo | Engaging people in a meaningful spiritual conversation using a short film | | http://indigitous.ph/ |
 | Translation Workspace | kaiifalcutela | Manila | #workspace | Provide a tool that assists New Tribes Missionaries (NTM) to translate the Chronological Bible Study material into the tribal community local language | | http://indigitous.ph/ |
+| Walk Beside | tohagan | Melbourne | #walk-beside | Take online personal discipling to the next level. | https://indigitous.org/projects/walk-beside/ |
+| In-form | selegna | Panamá City | | Celebrate and evaluate the results of the effort made to see spiritual movements everywhere. As we launch spiritual movements led by volunteers, there is a need to have a tool that allows them to celebrate and evaluate the results of the effort, to measure the impact beyond having statistics (which are also important). | https://indigitous.org/projects/in-form/ | |
+| The Temperaments and Jesus Film | selegna | Panamá City | | How can the Jesus Film help us to know each other, enable us to improve our temperament, and demonstrate the balanced personality of Jesus so that others decide to follow him | https://indigitous.org/projects/los-temperamentos-y-la-pelicula-jesus/ | |
+
