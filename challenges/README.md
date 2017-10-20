@@ -18,7 +18,7 @@
 | Secure Communication Platform | nbunney | Modesto, CA | | A secure missions communication platform for those in limited and closed access countries. | https://indigitous.org/projects/secure-communication-platform/ |
 | Blackstone | nonprofittechie | Chicago, IL | | Simplifies volunteer engagement in the digital ministry by aggregating and automating messaging and phone communications. | |
 | The Papyrus Project | profgannod | Cookville, IL | | The Papyrus Project is looking to evaluate the use of Serval for communicating in disaster-stricken regions. | |
-| Breaking Christian game stereotypes | joshua.montzka | Melbourne, AUS | Simple fun smartphone game using biblical characters to break stereotypes | https://indigitous.org/projects/breaking-christian-game-stereotypes/ |
+| Breaking Christian game stereotypes | joshua.montzka | Melbourne, AUS | | Simple fun smartphone game using biblical characters to break stereotypes | https://indigitous.org/projects/breaking-christian-game-stereotypes/ |
 | Volunteers 4 Hope | hsienli | Kuala Lumpur | | Gathering a Community of Volunteers and Matching their Skills and Interests to the needs of organisations | |
 | God's Reality in Virtual Reality | Tim Evans | Melbourne, Australia | | VR radically shifts how we experience stories. Can we tell the greatest story in this new reality? | |
 | Gospel Storytelling | kewei328 | Auckland, NZ | | Use Gospel-focused media to help non-believers take their first step towards Jesus | | 
