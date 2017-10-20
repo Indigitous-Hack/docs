@@ -16,4 +16,4 @@
 | Kingdom Aid | melcx and fionahew | Kuala Lumpur | | Crowdfunding to improve the standard of living of Christians and support Christian Organizations involved in spreading Kingdom principles | |
 | Integrated Missions Management | hsienli | Kuala Lumpur | | Mobile Online Platform for Coordination of Missions Volunteers and Resources | |
 | Secure Communication Platform | nbunney | Modesto, CA | | A secure missions communication platform for those in limited and closed access countries. | https://indigitous.org/projects/secure-communication-platform/ |
-| Blackstone | nonprofittechie | Chicago, IL | | Simplifies volunteer engagement in the digital ministry by aggregating and automating messaging and phone communications. | |
+| Blackstone | nonprofittechie | Chicago, IL |#blackstone| Simplifies volunteer engagement in the digital ministry by aggregating and automating messaging and phone communications. |https://github.com/IndigitousChicago|
