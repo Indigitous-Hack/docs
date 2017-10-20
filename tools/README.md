@@ -25,6 +25,7 @@ To get started with the hack:
 -----|-----|-----
 Atom Text Editor|https://atom.io/|An Open Source text edting tool from the makers of Github
 Github Student Pack|https://education.github.com/pack|Pack of Development Resource and Free services for students
+Android Studio|https://developer.android.com/studio/index.html|Official Android IDE
 CrossOrigin API proxy (workaround for CORS)|https://crossorigin.me/|A CORS proxy is a service that allows developers (probably you) to access resources from other websites, without having to own that website.
 PostMan (API tool)|https://www.getpostman.com/|The tool for testing APIs
 CORs Allow Chrome Plugin|https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi|Super simple way to solve Cross Site Scripting issues in your Chrome Browser
@@ -32,7 +33,12 @@ Zapier|https://zapier.com/|Don't rebuild the wheel unless you need to. Zapier in
 ifttt|https://ifttt.com/|Don't rebuild the wheel unless you need to. IFTTT interfaces with LOTS of API so you don't have to
 AWS Lambda|https://aws.amazon.com/lambda/|Need to run code as a responce to an event or build a REST API? Complex, powerful and steep learning curve
 
-
+### Learning Resources
+**Course Provider**|**Link**|**Description**
+-----|-----|-----
+Udacity|https://www.udacity.com/pathfinder|Includes free courses on computer science, web development, mobile development, and more!
+NodeSchool|https://nodeschool.io|Free resource to learn NodeJS and related web developer technologies from your command line
+Outsystems Training|https://www.outsystems.com/learn/|Includes free online courses on how to use Outsystems' low-code platform for quick development turnaround
 
 ### APIs
 **API / Data Set**|**Link**|**Category**|**Notes**
@@ -69,6 +75,8 @@ ProgrammableWeb|http://www.programmableweb.com/apis/directory|Large listing of g
 Heroku|Cloud Server|https://www.heroku.com/|Free
 OpenShift|Cloud Server|https://www.openshift.com/pricing/plan-comparison.html|Free
 AWS|Cloud Server and lots more|https://aws.amazon.com/|Free Tier - Massive offerings
+Firebase|Google's Mobile Backend as a Service (MBaaS)|https://firebase.google.com/|Can accelerate mobile development time significantly; includes a free tier
+Outsystems|Low-code Platform as a Service (PaaS)|https://outsystems.com|Can accelerate development time by up to 4x, includes free tier, **but paid tiers are very expensive**
 
 ### NLP
 **Type**|**Name**
