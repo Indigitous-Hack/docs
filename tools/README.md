@@ -34,7 +34,7 @@ To get started with the hack:
 
 ### Learning Resources
 
-- [Udacity](https://www.udacity.com/pathfinder) 
+  - [Udacity](https://www.udacity.com/pathfinder) 
     - Includes free courses on computer science, web development, mobile development, and more!
   - [NodeSchool](https://nodeschool.io)
     - Free resource to learn NodeJS and related web developer technologies from your command line
