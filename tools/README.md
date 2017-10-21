@@ -10,15 +10,15 @@ To get started with the hack:
 
 
 ## General Tools for the hack
-* Bring you tech -
-  * Laptop Computer with preferred OS (Desktop tower, monitor, keyboard and mouse possible, but not recommended)
-  * Tablet
-  * Smartphone
-  * Raspberry pi
-  * whatever
-* Text editor / IDE of choice
-* Each [challenge](https://indigitous.org/hack/challenges/) is very different and might require special tools. Check on the challenge page for more info.
-* Below is an ever growing list of tools, software, APIs and services that will help you hack
+  - Bring your tech -
+    - Laptop Computer with preferred OS (Desktop tower, monitor, keyboard and mouse possible, but not recommended)
+    -  Tablet
+    -  Smartphone
+    -  Raspberry pi
+    -  whatever
+  -  Text editor / IDE of choice
+  - Each [challenge](../challenges/README.md) is very different and might require special tools. Check on the challenge page for more info.
+  - Below is an ever growing list of tools, software, APIs and services that will help you hack
 
 ### Tools
  - [Editors and IDEs](editors.md)
