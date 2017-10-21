@@ -25,10 +25,12 @@ To get started with the hack:
 
 ### Tools
 
-- [Editors and IDEs](editors.md)
+ - [Editors and IDEs](editors.md)
  - [Web Development stuff](web-development.md)
  - [FREE STUFF!](free-stuff.md)
  - [Hosting services](hosting-services.md)
+ - [APIs and data sources](APIs.md)
+ - [NLP stuff](NLP.md)
 
 ### Learning Resources
 
