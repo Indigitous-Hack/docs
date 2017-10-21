@@ -20,18 +20,11 @@ To get started with the hack:
 * Each [challenge](https://indigitous.org/hack/challenges/) is very different and might require special tools. Check on the challenge page for more info.
 * Below is an ever growing list of tools, software, APIs and services that will help you hack
 
-### Software
-**Name of tool**|**Url**|**Notes**
------|-----|-----
-Atom Text Editor|https://atom.io/|An Open Source text edting tool from the makers of Github
-Github Student Pack|https://education.github.com/pack|Pack of Development Resource and Free services for students
-Android Studio|https://developer.android.com/studio/index.html|Official Android IDE
-CrossOrigin API proxy (workaround for CORS)|https://crossorigin.me/|A CORS proxy is a service that allows developers (probably you) to access resources from other websites, without having to own that website.
-PostMan (API tool)|https://www.getpostman.com/|The tool for testing APIs
-CORs Allow Chrome Plugin|https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi|Super simple way to solve Cross Site Scripting issues in your Chrome Browser
-Zapier|https://zapier.com/|Don't rebuild the wheel unless you need to. Zapier interfaces with LOTS of API so you don't have to
-ifttt|https://ifttt.com/|Don't rebuild the wheel unless you need to. IFTTT interfaces with LOTS of API so you don't have to
-AWS Lambda|https://aws.amazon.com/lambda/|Need to run code as a responce to an event or build a REST API? Complex, powerful and steep learning curve
+### Tools
+ - [Editors and IDEs](editors.md)
+ - [Web Development stuff](web-development.md)
+ - [FREE STUFF!](free-stuff.md)
+ - [Hosting services](hosting-services.md)
 
 ### Learning Resources
 **Course Provider**|**Link**|**Description**
