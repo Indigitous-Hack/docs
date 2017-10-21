@@ -1,5 +1,7 @@
 ## Editors
 
+ - [Visual Studio Code](https://code.visualstudio.com/)
+   - Code editing. Redefined. A feature rich text editor with powerful development features.
  - [Atom Text Editor](https://atom.io/)
    - An open-source text editing tool from the makers of Github
 - [Sublime Text](https://www.sublimetext.com/)
