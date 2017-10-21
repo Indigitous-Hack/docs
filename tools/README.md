@@ -1,12 +1,12 @@
 # Tools for the Indigitous #hack
-This page will serve as a hub for listing tools, software, APIs and services to the [Indigitous #hack] (https://indigitous.org/hack) Feel free to make pull requests to add to and update this list.
+This page will serve as a hub for listing tools, software, APIs and services to the [Indigitous #hack](https://indigitous.org/hack) Feel free to make pull requests to add to and update this list.
 
 ## Getting started with the #hack
 To get started with the hack:
 
-1. [Register for the #hack] (https://indigitous.org/hack)
-2. [Get Slack] (https://slack.com/)
-3. Join the [Kingdom Builders Slack] community. We will collaborate everything through Kingdom Builders Slack. (http://kingdombuilders.io/)
+1. [Register for the #hack](https://indigitous.org/hack)
+2. [Get Slack](https://slack.com/)
+3. Join the [Kingdom Builders Slack](http://kingdombuilders.io/) community. We will collaborate everything through Kingdom Builders Slack. 
 
 
 ## General Tools for the hack
@@ -17,7 +17,7 @@ To get started with the hack:
   * Raspberry pi
   * whatever
 * Text editor / IDE of choice
-* Each [challenge] (https://indigitous.org/hack/challenges/) is very different and might require special tools. Check on the challenge page for more info.
+* Each [challenge](https://indigitous.org/hack/challenges/) is very different and might require special tools. Check on the challenge page for more info.
 * Below is an ever growing list of tools, software, APIs and services that will help you hack
 
 ### Software
@@ -82,4 +82,4 @@ Outsystems|Low-code Platform as a Service (PaaS)|https://outsystems.com|Can acce
 ### NLP
 **Type**|**Name**
 -----|-----
-Blog post|[NLP on song lyrics] (https://bigishdata.com/2016/10/25/talkin-bout-trucks-beer-and-love-in-country-songs-analyzing-genius-lyrics/)
+Blog post|[NLP on song lyrics](https://bigishdata.com/2016/10/25/talkin-bout-trucks-beer-and-love-in-country-songs-analyzing-genius-lyrics/)
