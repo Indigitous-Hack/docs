@@ -1,6 +1,6 @@
 # Tools for the Indigitous #hack
 
-This page will serve as a hub for listing tools, software, APIs and services to the [Indigitous #hack](https://indigitous.org/hack) Feel free to make pull requests to add to and update this list.
+This page will serve as a hub for listing tools, software, APIs, and services to the [Indigitous #hack](https://indigitous.org/hack). Feel free to make pull requests to add to and update this list.
 
 ## Getting started with the #hack
 
@@ -8,20 +8,20 @@ To get started with the hack:
 
 1. [Register for the #hack](https://indigitous.org/hack)
 1. [Get Slack](https://slack.com/)
-1. Join the [Kingdom Builders Slack](http://kingdombuilders.io/) community. We will collaborate everything through Kingdom Builders Slack. 
+1. Join the [Kingdom Builders Slack](http://kingdombuilders.io/) community. All collaboration will happen through Kingdom Builders Slack. 
 
 
 ## General Tools for the hack
 
 - Bring your tech!
-    - Laptop Computer with preferred OS (Desktop tower, monitor, keyboard and mouse possible, but not recommended)
-    -  Tablet
-    -  Smartphone
-    -  Raspberry pi
-    -  whatever
-  -  Text editor / IDE of choice
-  - Each [challenge](../challenges/README.md) is very different and might require special tools. Check on the challenge page for more info.
-  - Below is an ever growing list of tools, software, APIs and services that will help you hack
+  - Laptop Computer with preferred OS (Desktop tower with monitor, keyboard, and mouse possible, but not recommended)
+  - Tablet
+  - Smartphone
+  - Raspberry Pi
+  - Whatever
+  - Text editor / IDE of choice
+- Each [challenge](../challenges/README.md) is very different and might require special tools. Check on the challenge page for more info.
+- Below is an ever-growing list of tools, software, APIs, and services that will help you hack
 
 ### Tools
 
