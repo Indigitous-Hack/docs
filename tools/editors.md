@@ -39,3 +39,11 @@
 
   - [Gogland](https://www.jetbrains.com/go/)
   
+
+
+## Tutorials
+
+### Vim
+- [Interactive VIM tutorial](http://www.openvim.com/tutorial.html)
+- [VIM Adventures](https://vim-adventures.com/)
+  - Learn Vim while playing an RPG-style game!
