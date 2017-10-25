@@ -22,6 +22,14 @@ Hosting services and tools of various flavors
 
   - [AWS Lambda](https://aws.amazon.com/lambda/)
     - Need to run code as a responce to an event or build a REST API? Complex, powerful and steep learning curve
+    
+### Content delivery networks
+
+DDoS prevention and traffic filtering. 
+
+  - [Cloudflare](https://www.cloudflare.com/)
+  - [AWS CloudFront](https://aws.amazon.com/cloudfront/)
+  - [Google Project Shield](https://projectshield.withgoogle.com/public/)
 
 ### Misc., potentially terrible ideas
 
