@@ -6,4 +6,5 @@
   - [Setting up a web server on AWS](http://www.reliasolve.com/index.php/urbana-15/setting-up-a-web-server-on-aws/)
   - [Forwarding email addresses in your domain](http://www.reliasolve.com/index.php/urbana-15/forwarding-email-addresses-in-your-domain/)
   - [Setting up WordPress on a server](http://www.reliasolve.com/index.php/urbana-15/setting-up-wordpress-on-a-server/)
+  - [Angular 4 in 60 Minutes (video)](https://www.youtube.com/watch?v=KhzGSHNhnbI)
 
