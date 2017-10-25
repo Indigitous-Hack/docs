@@ -1,6 +1,6 @@
 # Tools for the Indigitous #hack
 
-This page will serve as a hub for listing tools, software, APIs, and services to the [Indigitous #hack](https://indigitous.org/hack) Feel free to make pull requests to add to and update this list.
+This page will serve as a hub for listing tools, software, APIs, and services to the [Indigitous #hack](https://indigitous.org/hack). Feel free to make pull requests to add to and update this list.
 
 ## Getting started with the #hack
 
