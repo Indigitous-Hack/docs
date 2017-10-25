@@ -27,9 +27,9 @@ Hosting services and tools of various flavors
 
 DDoS prevention and traffic filtering. 
 
--[Cloudflare](https://www.cloudflare.com/)
--[AWS CloudFront](https://aws.amazon.com/cloudfront/)
--[Google Project Shield](https://projectshield.withgoogle.com/public/)
+  - [Cloudflare](https://www.cloudflare.com/)
+  - [AWS CloudFront](https://aws.amazon.com/cloudfront/)
+  - [Google Project Shield](https://projectshield.withgoogle.com/public/)
 
 ### Misc., potentially terrible ideas
 
