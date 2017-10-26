@@ -40,3 +40,5 @@ To get started with the hack:
     - Free resource to learn NodeJS and related web developer technologies from your command line
   - [Outsystems Training](https://www.outsystems.com/learn/)
     - Includes free online courses on how to use Outsystems' low-code platform for quick development turnaround
+  - [Awesome Lists](https://github.com/sindresorhus/awesome)
+    - A repo filled with awesome links and resources  
