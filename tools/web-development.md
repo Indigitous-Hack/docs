@@ -20,3 +20,10 @@ Using these tools allow you to make cross origin requests by bypassing CORS head
     - CORS Proxy is a servife that allows developers to access resources from other websites without having to own that website
   - [CORS Allow Chrome Plugin](https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi)
     - Simple way to solve Cross Site Scripting issues in your Chrome Browser
+   
+### WordPress tools
+
+  - [WP-CLI](http://wp-cli.org/)
+    - The answer to many WP related headaches. Great for managing updates, backups, and migrations of any WordPress instance.
+  - [WPScan](https://wpscan.org/)
+    - Black box testing for WordPress installations.  
