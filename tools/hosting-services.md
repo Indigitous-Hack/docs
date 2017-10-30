@@ -17,6 +17,8 @@ Hosting services and tools of various flavors
   - [Heroku](https://www.heroku.com/)
   - [Firebase](https://firebase.google.com/)
     - Google's mobile backend as a service
+  - [Now](https://zeit.co/now)
+    - Simplified Node hosting
 
 ### Serverless
 
@@ -25,13 +27,14 @@ Hosting services and tools of various flavors
     
 ### Content delivery networks
 
-DDoS prevention and traffic filtering. 
+Edge Caching, Content Optimizations, DDoS prevention and traffic filtering. 
 
   - [Cloudflare](https://www.cloudflare.com/)
   - [AWS CloudFront](https://aws.amazon.com/cloudfront/)
   - [Google Project Shield](https://projectshield.withgoogle.com/public/)
+  - [Fastly](https://www.fastly.com/) (varnish as a service)
 
-### Misc., potentially terrible ideas
+### Misc., potentially terrible ideas (do not use this in production)
 
    - [Ngrok](https://ngrok.com)
      - "Secure", free tunnel to localhost (this makes Briggs cry)
