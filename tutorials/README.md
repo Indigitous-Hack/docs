@@ -10,3 +10,4 @@
   - [Learn VueJS 2.0](https://laracasts.com/series/learn-vue-2-step-by-step)
   - [Elixir with José Valim](http://howistart.org/posts/elixir/1/)
   - [Mastering Markdown](https://masteringmarkdown.com/)
+  - [build with react](http://buildwithreact.com/tutorial)
