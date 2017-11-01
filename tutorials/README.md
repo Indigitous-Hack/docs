@@ -9,3 +9,4 @@
   - [Angular 4 in 60 Minutes (video)](https://www.youtube.com/watch?v=KhzGSHNhnbI)
   - [Learn VueJS 2.0](https://laracasts.com/series/learn-vue-2-step-by-step)
   - [Elixir with José Valim](http://howistart.org/posts/elixir/1/)
+  - [Mastering Markdown](https://masteringmarkdown.com/)
