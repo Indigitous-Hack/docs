@@ -1,6 +1,5 @@
 | Challenge name | Lead/Point of Contact (Slack Username) | City | Hashtag | Description |
 | -------------  | -------------------------------------  | ---- | ------  | ----------- |
-| [Grow Fast Grow Deep](https://bitbucket.org/talkingtoaj/lang/wiki/Home) | talkingtoaj | | #GrowFastGrowDeep |
 | Catalyst Connection | kewei328 |  | #CatalystConnections | A mobile app for Christians in workplaces to connect for Bible studies, to apply faith to work and life, and to welcome colleagues. |
 | Go Mission! | kewei328 | | | Create a solution for motivating Christians to use the many free digital outreach resources now available. |
 | Ending Addiction through Technology | profgannod | Cookville, TN | | One-stop shopping for regional resources related to ending opioid addition and abuse through the use of technology and education |
